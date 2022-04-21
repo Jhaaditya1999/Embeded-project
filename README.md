@@ -15,3 +15,8 @@ The buttons have to be switched on before the app starts working. Potentiometer 
 |-----------|-------|
 |F_01|	sensing if the person is seated|
 |F_02	|Blinking the LED|
+
+## Code Quality Score
+  ![code quality score](https://api.codiga.io/project/32918/score/svg)
+## Code Grade
+![code grade](https://api.codiga.io/project/32918/status/svg)
