@@ -22,3 +22,5 @@ The buttons have to be switched on before the app starts working. Potentiometer 
 ![code grade](https://api.codiga.io/project/32918/status/svg)
 ## Codacy Badge
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/9a8aee8d57974d708d50b1298309b90d)](https://www.codacy.com/gh/Jhaaditya1999/M2_HOTSEAT/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Jhaaditya1999/M2_HOTSEAT&amp;utm_campaign=Badge_Grade)
+## CI  Badge
+[![CI](https://github.com/Jhaaditya1999/M2_HOTSEAT/actions/workflows/main.yml/badge.svg)](https://github.com/Jhaaditya1999/M2_HOTSEAT/actions/workflows/main.yml)
