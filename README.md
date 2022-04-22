@@ -26,3 +26,9 @@ The buttons have to be switched on before the app starts working. Potentiometer 
 [![CI](https://github.com/Jhaaditya1999/M2_HOTSEAT/actions/workflows/main.yml/badge.svg)](https://github.com/Jhaaditya1999/M2_HOTSEAT/actions/workflows/main.yml)
 ## Cpp Check
 [![cppcheck-action](https://github.com/Jhaaditya1999/M2_HOTSEAT/actions/workflows/c-cppabc.yml/badge.svg)](https://github.com/Jhaaditya1999/M2_HOTSEAT/actions/workflows/c-cppabc.yml)
+## Challenges Faced and How Was It Overcome
+|No.|	Challenge|	Solution|
+|---|----------|----------|
+|1.|	On the simulide latest version some sources are not available|	By the help of connect class solved|
+|2.|	issues in implementation	|fixed them by making template in order|
+|3.|	Issues in workflows	|fixed them by updating the path to all files correctly|
